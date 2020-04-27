@@ -34,7 +34,7 @@ function tallyExercises(exercises) {
     return acc;
   }, {});
   return tallied;
-}
+}   
 
 function formatDate(date) {
   const options = {
